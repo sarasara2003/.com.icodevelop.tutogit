@@ -4,6 +4,13 @@
 
 '''bash
 git init
-
 git remote add origin HTTPS_REPO
+'''
+
+## Rédiger un comit
+
+'''
+Titre du commit
+
+Description de notre commit avec des informtions sur l'évolution du projet
 '''
